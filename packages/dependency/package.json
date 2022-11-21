@@ -1,0 +1,11 @@
+{
+  "name": "dependency",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
