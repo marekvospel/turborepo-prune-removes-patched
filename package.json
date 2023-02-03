@@ -2,7 +2,7 @@
   "name": "turborepo-prune-removes-patched",
   "version": "1.0.0",
   "devDependencies": {
-    "turbo": "^1.6.3"
+    "turbo": "^1.7.3"
   },
   "packageManager": "pnpm@7.15.0",
   "workspaces": [

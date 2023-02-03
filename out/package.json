@@ -1,11 +1,13 @@
 {
   "devDependencies": {
-    "turbo": "^1.6.3"
+    "turbo": "^1.7.3"
   },
   "name": "turborepo-prune-removes-patched",
   "packageManager": "pnpm@7.15.0",
   "pnpm": {
-    "patchedDependencies": {}
+    "patchedDependencies": {
+      "is-odd@3.0.1": "patches/is-odd@3.0.1.patch"
+    }
   },
   "version": "1.0.0",
   "workspaces": [
